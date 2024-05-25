@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d80e7ce-c66a-4294-8947-86fffdc3dcbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SonicXBackned/src/main/java/org/example/DataBase/DatabaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SonicXBackned/src/main/java/org/example/DataBase/DatabaseConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SonicXBackned/src/main/java/org/example/UserManagment/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SonicXBackned/src/main/java/org/example/UserManagment/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SonicXBackned/src/main/java/org/example/UserManagment/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SonicXBackned/src/main/java/org/example/UserManagment/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/MainContent.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Playlist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Css/Sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AlbumCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ArtistCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AuthContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DashBord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainContent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MusicBox.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlayListContent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlaylistPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Playlist.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Register.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Search.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/VerifyEmail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/play-circle-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2gx8FrUB0sDBOVuG7PtHEAa1sXJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop/SonicX(2)/SonicXBackned"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d80e7ce-c66a-4294-8947-86fffdc3dcbf" name="Changes" comment="" />
+      <created>1716627767612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716627767612</updated>
+    </task>
+    <servers />
+  </component>
+</project>

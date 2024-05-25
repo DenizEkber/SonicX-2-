@@ -8,7 +8,7 @@ public class DatabaseConnector {
 
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/musicdata";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "your_password";
+    private static final String PASSWORD = "#123456789#";
 
     private static DatabaseConnector instance;
     private Connection connection;

@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\usermanagment\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\usermanagment\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\database\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\database\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|c:\\users\\lenovo\\desktop\\sonicx(2)\\sonicxbackendc\\sonicxbackendc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\usermanagment\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\usermanagment\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\usermanagment\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\usermanagment\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\server\\user\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\server\\user\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\playlistmanagment\\playlistdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\playlistmanagment\\playlistdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\musicmanagment\\musicfiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\musicmanagment\\musicfiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\playlistmanagment\\playlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\playlistmanagment\\playlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\server\\csharphttpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\server\\csharphttpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\server\\playlist\\playlistcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\server\\playlist\\playlistcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\server\\playlist\\playlistshowcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\server\\playlist\\playlistshowcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\server\\playlist\\playlistshowhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\server\\playlist\\playlistshowhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\sonicxbackendc\\playlistmanagment\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4209E7-E47B-4643-B769-7494CCA9E80B}|SonicXBackendC\\SonicXBackendC.csproj|solutionrelative:sonicxbackendc\\playlistmanagment\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CSharpHttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\CSharpHttpServer.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\Server\\CSharpHttpServer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\CSharpHttpServer.cs",
+              "RelativeToolTip": "SonicXBackendC\\Server\\CSharpHttpServer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:40:08.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaylistDAO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\PlaylistManagment\\PlaylistDAO.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\PlaylistManagment\\PlaylistDAO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\PlaylistManagment\\PlaylistDAO.cs",
+              "RelativeToolTip": "SonicXBackendC\\PlaylistManagment\\PlaylistDAO.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwHQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:30:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\UserManagment\\UserDAO.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\UserManagment\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\UserManagment\\UserDAO.cs",
+              "RelativeToolTip": "SonicXBackendC\\UserManagment\\UserDAO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAASwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:14:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Program.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Program.cs",
+              "RelativeToolTip": "SonicXBackendC\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:11:35.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicFileDAO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\MusicManagment\\MusicFileDAO.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\MusicManagment\\MusicFileDAO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\MusicManagment\\MusicFileDAO.cs",
+              "RelativeToolTip": "SonicXBackendC\\MusicManagment\\MusicFileDAO.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:33:59.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\UserManagment\\UserService.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\UserManagment\\UserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\UserManagment\\UserService.cs",
+              "RelativeToolTip": "SonicXBackendC\\UserManagment\\UserService.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAawHcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:43:52.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnector.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\DataBase\\DatabaseConnector.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\DataBase\\DatabaseConnector.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\DataBase\\DatabaseConnector.cs",
+              "RelativeToolTip": "SonicXBackendC\\DataBase\\DatabaseConnector.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAcAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:47:15.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\UserManagment\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\UserManagment\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\UserManagment\\EmailSender.cs",
+              "RelativeToolTip": "SonicXBackendC\\UserManagment\\EmailSender.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:47:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\User\\RegisterHandler.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\Server\\User\\RegisterHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\User\\RegisterHandler.cs",
+              "RelativeToolTip": "SonicXBackendC\\Server\\User\\RegisterHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAawCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:49:29.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaylistManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\PlaylistManagment\\PlaylistManager.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\PlaylistManagment\\PlaylistManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\PlaylistManagment\\PlaylistManager.cs",
+              "RelativeToolTip": "SonicXBackendC\\PlaylistManagment\\PlaylistManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:28:12.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaylistCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\PlayList\\PlaylistCreateHandler.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\Server\\PlayList\\PlaylistCreateHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\PlayList\\PlaylistCreateHandler.cs",
+              "RelativeToolTip": "SonicXBackendC\\Server\\PlayList\\PlaylistCreateHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:39:19.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaylistShowContent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\PlayList\\PlaylistShowContent.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\Server\\PlayList\\PlaylistShowContent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\PlayList\\PlaylistShowContent.cs",
+              "RelativeToolTip": "SonicXBackendC\\Server\\PlayList\\PlaylistShowContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:38:36.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlaylistShowHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\PlayList\\PlaylistShowHandler.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\Server\\PlayList\\PlaylistShowHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\Server\\PlayList\\PlaylistShowHandler.cs",
+              "RelativeToolTip": "SonicXBackendC\\Server\\PlayList\\PlaylistShowHandler.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:37:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\PlaylistManagment\\Playlist.cs",
+              "RelativeDocumentMoniker": "SonicXBackendC\\PlaylistManagment\\Playlist.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\SonicX(2)\\SonicXBackendC\\SonicXBackendC\\PlaylistManagment\\Playlist.cs",
+              "RelativeToolTip": "SonicXBackendC\\PlaylistManagment\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:27:17.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

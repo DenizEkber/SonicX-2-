@@ -8,8 +8,8 @@ import java.util.Properties;
 public class EmailSender {
     private final String host = "smtp.gmail.com";
     private final String port = "465";
-    private final String username = "your_gamil";
-    private final String password = "your_app_pass";
+    private final String username = "olabilirbilmem1@gmail.com";
+    private final String password = "gylcbbuqvgfuylcz";
 
     private static EmailSender instance;
 

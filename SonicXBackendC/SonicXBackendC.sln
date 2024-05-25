@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonicXBackendC", "SonicXBackendC\SonicXBackendC.csproj", "{1C4209E7-E47B-4643-B769-7494CCA9E80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4209E7-E47B-4643-B769-7494CCA9E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4209E7-E47B-4643-B769-7494CCA9E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4209E7-E47B-4643-B769-7494CCA9E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4209E7-E47B-4643-B769-7494CCA9E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F9FF74E-B6AC-4056-B300-C6EF35AAB9FE}
+	EndGlobalSection
+EndGlobal

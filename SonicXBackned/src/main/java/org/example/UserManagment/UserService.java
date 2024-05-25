@@ -50,6 +50,7 @@ public class UserService {
     }
 
     public boolean register(String firstName, String lastName, String email, String password) {
+        System.out.println("Register started");
         if (userDAO.getUserByEmail(email) != null) {
             System.out.println("Bu e-posta adresi zaten kullanımda.");
             return false;

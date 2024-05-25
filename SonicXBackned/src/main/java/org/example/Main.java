@@ -20,7 +20,7 @@ public class Main {
             System.out.println("0. Çıkış");
             System.out.print("Seçiminizi yapın: ");
             int choice = scanner.nextInt();
-            scanner.nextLine();  // Consume newline
+            scanner.nextLine();  
 
             switch (choice) {
                 case 1:

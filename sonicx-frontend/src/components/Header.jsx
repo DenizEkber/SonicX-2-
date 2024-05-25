@@ -32,7 +32,7 @@ function Header() {
 
   return (
     <header className="header">
-      <h1>Spotify Clone</h1>
+      <h1>SonicX</h1>
       <div className="auth-buttons">
         {!isAuthenticated ? (
           <>

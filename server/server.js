@@ -11,8 +11,8 @@ const port2 = 8001;
 
 
 
-const CLIENT_ID = 'a6ce7463366b4cd5840f6d1bd3f444bb'; // Spotify Developer Dashboard'dan alın
-const CLIENT_SECRET = '2fecd0189f154dc18c16b61db540f2b7'; // Spotify Developer Dashboard'dan alın
+const CLIENT_ID = 'your_client-id'; // Spotify Developer Dashboard'dan alın
+const CLIENT_SECRET = 'your_client_secret'; // Spotify Developer Dashboard'dan alın
 const REDIRECT_URI = 'http://localhost:8080/callback';
 
 let accessToken = '';

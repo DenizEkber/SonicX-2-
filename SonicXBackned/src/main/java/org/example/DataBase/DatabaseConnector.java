@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DatabaseConnector {
 
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/musicdata";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/your_database";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "your_password";
 

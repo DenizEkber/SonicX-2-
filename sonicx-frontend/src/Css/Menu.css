@@ -1,0 +1,173 @@
+/* Genel menü stili */
+.menu {
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8f8;
+  height: 100vh;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+/* Ana düzen stili */
+.main-layout {
+  display: flex;
+  flex: 1;
+  height: 100%;
+}
+
+/* İçerik alanı stili */
+.content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+/* Şarkılar konteyneri stili */
+.songs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* Her şarkı öğesi için stil */
+.song {
+  position: relative;
+  color: black;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+  text-align: center; /* Şarkı içeriğini ortalamak için */
+}
+
+.song:hover {
+  background: #f0f0f0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Şarkı resmi için stil */
+.song img {
+  max-width: 100%;
+  height: auto;
+  max-height: 150px; /* Maksimum yükseklik belirleyin */
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Oynatma butonu stili */
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%) translateY(10px); /* Start button slightly below */
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.play-button {
+ opacity: 1;
+  transform: translate(-50%, -50%) translateY(0); /* Move to original position */
+}
+
+@keyframes play-button-animation-in {
+  from {
+      opacity: 0;
+      transform: translate(-50%, -50%) translateY(10px); /* Start slightly below */
+  }
+  to {
+      opacity: 1;
+      transform: translate(-50%, -50%) translateY(0); /* Move to original position */
+  }
+}
+
+@keyframes play-button-animation-out {
+  from {
+      opacity: 1;
+      transform: translate(-50%, -50%) translateY(0); /* Start at original position */
+  }
+  to {
+      opacity: 0;
+      transform: translate(-50%, -50%) translateY(10px); /* Move slightly below */
+  }
+}
+
+.play-button {
+  animation: play-button-animation-in 0.3s ease-in-out forwards;
+}
+
+
+.song:hover .play-button {
+  display: block;
+}
+
+/* Playlist ekleme konteyneri stili */
+.add-to-playlist-container {
+  margin-top: 10px;
+}
+
+/* Playlist menüsü stili */
+.add-to-playlist-menu {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  position: absolute;
+  z-index: 1;
+}
+
+/* Şarkı bilgisi stili */
+.song-info {
+  margin-top: 20px;
+}
+
+/* Genel buton stili */
+button {
+  padding: 5px 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #f8f8f8;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #e0e0e0;
+}
+
+/* Sidebar'daki playlistler */
+.sidebar .playlist-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.sidebar .playlist-item:hover {
+  background: #e0e0e0;
+}
+
+/* Başlıklar */
+h2 {
+  margin: 0 0 10px;
+  font-size: 24px;
+  color: #333;
+}
+
+/* Audio kontrolleri */
+audio {
+  width: 100%;
+  margin-top: 10px;
+}
+
+

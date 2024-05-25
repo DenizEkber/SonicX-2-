@@ -1,0 +1,76 @@
+.artist-card, .album-card {
+  background-color: #282828;
+  border-radius: 8px;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  transition: transform 0.2s;
+  position: relative; /* Relative position for absolute positioning of the button */
+}
+
+.artist-card img, .album-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.artist-card h3, .album-card h3 {
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.artist-card:hover, .album-card:hover {
+  transform: scale(1.05);
+}
+
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%) translateY(10px); /* Start button slightly below */
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.artist-card:hover .play-button {
+ opacity: 1;
+  transform: translate(-50%, -50%) translateY(0); /* Move to original position */
+}
+
+@keyframes play-button-animation-in {
+  from {
+      opacity: 0;
+      transform: translate(-50%, -50%) translateY(10px); /* Start slightly below */
+  }
+  to {
+      opacity: 1;
+      transform: translate(-50%, -50%) translateY(0); /* Move to original position */
+  }
+}
+
+@keyframes play-button-animation-out {
+  from {
+      opacity: 1;
+      transform: translate(-50%, -50%) translateY(0); /* Start at original position */
+  }
+  to {
+      opacity: 0;
+      transform: translate(-50%, -50%) translateY(10px); /* Move slightly below */
+  }
+}
+
+.artist-card:hover .play-button {
+  animation: play-button-animation-in 0.3s ease-in-out forwards;
+}
+
+.artist-card:not(:hover) .play-button {
+  animation: play-button-animation-out 0.3s ease-in-out forwards;
+}

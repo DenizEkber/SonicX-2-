@@ -5,7 +5,7 @@ namespace SonicXBackendC.DataBase
 {
     public class DatabaseConnector
     {
-        private static readonly string ConnectionString = "Server=localhost;Port=3306;Database=your_database;Uid=root;Pwd=your_password";
+        private static readonly string ConnectionString = "Server=localhost;Port=3306;Database=your_database;Uid=your_name;Pwd=your_password";
         private static DatabaseConnector instance;
         private MySqlConnection connection;
 
